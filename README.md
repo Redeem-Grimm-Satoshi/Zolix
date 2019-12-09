@@ -1,2 +1,2 @@
 # Zolix
-Say hi to Zolix.. It helps you shutdown your computer system with ease. Prevents unecessary shutdown and OS crashing.
+Say Hi To Zolix.. It Helps You Shutdown Your Computer System With Ease. Prevents Unecessary Shutdown And OS Crashing.
